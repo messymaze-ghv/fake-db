@@ -1,14 +1,106 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "AREA NAME": "Green Valley",
+    "AREA CODE": "GV101",
+    "DISTRICT NAME": "Central District",
+    "DISTRICT NO": 12,
+    "DELIVERY ZIPCODE": "90001",
+    "LOCALE NAME": "Zone A",
+    "PHYSICAL DELV ADDR": "123 Green St",
+    "PHYSICAL CITY": "Los Angeles",
+    "PHYSICAL STATE": "CA",
+    "PHYSICAL ZIP": "90001",
+    "PHYSICAL ZIP 4": "1234"
+  },
+  {
+    "AREA NAME": "Blue Ridge",
+    "AREA CODE": "BR202",
+    "DISTRICT NAME": "North District",
+    "DISTRICT NO": 18,
+    "DELIVERY ZIPCODE": "30301",
+    "LOCALE NAME": "Zone B",
+    "PHYSICAL DELV ADDR": "456 Blue Ave",
+    "PHYSICAL CITY": "Atlanta",
+    "PHYSICAL STATE": "GA",
+    "PHYSICAL ZIP": "30301",
+    "PHYSICAL ZIP 4": "5678"
+  },
+  {
+    "AREA NAME": "Sunny Side",
+    "AREA CODE": "SS303",
+    "DISTRICT NAME": "West District",
+    "DISTRICT NO": 21,
+    "DELIVERY ZIPCODE": "73301",
+    "LOCALE NAME": "Zone C",
+    "PHYSICAL DELV ADDR": "789 Sunny Rd",
+    "PHYSICAL CITY": "Austin",
+    "PHYSICAL STATE": "TX",
+    "PHYSICAL ZIP": "73301",
+    "PHYSICAL ZIP 4": "9012"
+  },
+  {
+    "AREA NAME": "Maple Heights",
+    "AREA CODE": "MH404",
+    "DISTRICT NAME": "East District",
+    "DISTRICT NO": 5,
+    "DELIVERY ZIPCODE": "44101",
+    "LOCALE NAME": "Zone D",
+    "PHYSICAL DELV ADDR": "101 Maple Ave",
+    "PHYSICAL CITY": "Cleveland",
+    "PHYSICAL STATE": "OH",
+    "PHYSICAL ZIP": "44101",
+    "PHYSICAL ZIP 4": "2345"
+  },
+  {
+    "AREA NAME": "Cedar Grove",
+    "AREA CODE": "CG505",
+    "DISTRICT NAME": "South District",
+    "DISTRICT NO": 33,
+    "DELIVERY ZIPCODE": "60601",
+    "LOCALE NAME": "Zone E",
+    "PHYSICAL DELV ADDR": "202 Cedar Ln",
+    "PHYSICAL CITY": "Chicago",
+    "PHYSICAL STATE": "IL",
+    "PHYSICAL ZIP": "60601",
+    "PHYSICAL ZIP 4": "3456"
+  },
+  {
+    "AREA NAME": "River Bend",
+    "AREA CODE": "RB606",
+    "DISTRICT NAME": "River District",
+    "DISTRICT NO": 8,
+    "DELIVERY ZIPCODE": "75201",
+    "LOCALE NAME": "Zone F",
+    "PHYSICAL DELV ADDR": "303 River St",
+    "PHYSICAL CITY": "Dallas",
+    "PHYSICAL STATE": "TX",
+    "PHYSICAL ZIP": "75201",
+    "PHYSICAL ZIP 4": "4567"
+  },
+  {
+    "AREA NAME": "Pine Hill",
+    "AREA CODE": "PH707",
+    "DISTRICT NAME": "Hilltop District",
+    "DISTRICT NO": 16,
+    "DELIVERY ZIPCODE": "19101",
+    "LOCALE NAME": "Zone G",
+    "PHYSICAL DELV ADDR": "404 Pine Rd",
+    "PHYSICAL CITY": "Philadelphia",
+    "PHYSICAL STATE": "PA",
+    "PHYSICAL ZIP": "19101",
+    "PHYSICAL ZIP 4": "6789"
+  },
+  {
+    "AREA NAME": "Ocean View",
+    "AREA CODE": "OV808",
+    "DISTRICT NAME": "Coastal District",
+    "DISTRICT NO": 29,
+    "DELIVERY ZIPCODE": "94101",
+    "LOCALE NAME": "Zone H",
+    "PHYSICAL DELV ADDR": "505 Ocean Dr",
+    "PHYSICAL CITY": "San Francisco",
+    "PHYSICAL STATE": "CA",
+    "PHYSICAL ZIP": "94101",
+    "PHYSICAL ZIP 4": "7890"
   }
-}
+]
