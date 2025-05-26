@@ -1,4 +1,4 @@
-[
+"Address Details" : [
   {
     "AREA NAME": "Green Valley",
     "AREA CODE": "GV101",
@@ -63,44 +63,5 @@
     "PHYSICAL STATE": "IL",
     "PHYSICAL ZIP": "60601",
     "PHYSICAL ZIP 4": "3456"
-  },
-  {
-    "AREA NAME": "River Bend",
-    "AREA CODE": "RB606",
-    "DISTRICT NAME": "River District",
-    "DISTRICT NO": 8,
-    "DELIVERY ZIPCODE": "75201",
-    "LOCALE NAME": "Zone F",
-    "PHYSICAL DELV ADDR": "303 River St",
-    "PHYSICAL CITY": "Dallas",
-    "PHYSICAL STATE": "TX",
-    "PHYSICAL ZIP": "75201",
-    "PHYSICAL ZIP 4": "4567"
-  },
-  {
-    "AREA NAME": "Pine Hill",
-    "AREA CODE": "PH707",
-    "DISTRICT NAME": "Hilltop District",
-    "DISTRICT NO": 16,
-    "DELIVERY ZIPCODE": "19101",
-    "LOCALE NAME": "Zone G",
-    "PHYSICAL DELV ADDR": "404 Pine Rd",
-    "PHYSICAL CITY": "Philadelphia",
-    "PHYSICAL STATE": "PA",
-    "PHYSICAL ZIP": "19101",
-    "PHYSICAL ZIP 4": "6789"
-  },
-  {
-    "AREA NAME": "Ocean View",
-    "AREA CODE": "OV808",
-    "DISTRICT NAME": "Coastal District",
-    "DISTRICT NO": 29,
-    "DELIVERY ZIPCODE": "94101",
-    "LOCALE NAME": "Zone H",
-    "PHYSICAL DELV ADDR": "505 Ocean Dr",
-    "PHYSICAL CITY": "San Francisco",
-    "PHYSICAL STATE": "CA",
-    "PHYSICAL ZIP": "94101",
-    "PHYSICAL ZIP 4": "7890"
   }
 ]
